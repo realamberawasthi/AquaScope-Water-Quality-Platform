@@ -92,3 +92,10 @@ wbda/
 │   └── public/         # Static assets
 └── run_project.bat     # Startup script
 ```
+
+## My Contribution
+
+- Worked on frontend development using React and Tailwind CSS
+- Designed dashboard UI and user interface components
+- Integrated frontend with backend APIs
+- Contributed to project structure and feature implementation in a team environment
