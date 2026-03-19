@@ -1,0 +1,37 @@
+# Node
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+
+# Python
+__pycache__/
+venv/
+.venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Databases & Large Files
+*.sqlite3
+*.pkl
+# Optional: if you want to keep the model in git, comment the line below
+# model.pkl
+# encoders.pkl
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+backend/.env
+frontend/.env
+data/water_quality_dataset.csv
+backend/data/water_quality_dataset.csv
